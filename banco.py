@@ -1,10 +1,12 @@
 menu = """
-[d]depositar 
-[s]Sacar 
-[e]Extrato 
-[q]Sair
+    [d]depositar 
+    [s]Sacar f
+    [e]Extrato 
+    [q]Sair
 
 """
+
+
 
 saldo = 0
 limite = 500
